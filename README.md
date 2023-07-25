@@ -9,6 +9,8 @@
 
 ## 目录拆分
 
+
+
 ## 有点话说
 
 虽然现在例如vite，snowpack等打包工具也都非常优秀，也日趋成熟，作者并不想去比较技术和轮子之间的优劣，各有千秋，仅仅是本着学习和强化自身认识的角度是写这么一个系列
@@ -26,8 +28,12 @@ webpack最初的版本可以追溯到11年前，也就是2012年，正如它当�
 
 **更多分享可以关注**
 
-<img src="./assets/扫码_搜索联合传播样式-标准色版.jpg" alt="扫码_搜索联合传播样式-标准色版" style="height:150px" />
+<img src="https://raw.githubusercontent.com/nalantianyi/my-pics-base/master/202307251603062.jpg" alt="" style="zoom:25%;" />
 
-**觉得作者写的还行的话加wx聊一聊或者打赏杯咖啡**
+**觉得作者写的还行的话加wx聊一聊**
 
-<img src="./assets/image-20230725142126774.png" alt="image-20230725142126774" style="width:200px" /><img src="./assets/image-20230725142228414.png" alt="image-20230725142228414" style="width:200px" />
+<img src="https://raw.githubusercontent.com/nalantianyi/my-pics-base/master/202307251602453.jpg" alt="3171690254350_.pic" style="zoom:20%;" />
+
+**或者打赏杯咖啡**
+
+<img src="https://raw.githubusercontent.com/nalantianyi/my-pics-base/master/202307251603949.jpg" alt="3161690254349_.pic" style="zoom:25%;" />
